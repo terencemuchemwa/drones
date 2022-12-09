@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.musalasoft.droneapi.rest.RestDroneTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.033 s - in com.musalasoft.droneapi.rest.RestDroneTest

@@ -1,0 +1,16 @@
+com\musalasoft\droneapi\service\IMedicationService.class
+com\musalasoft\droneapi\service\DroneService$1.class
+com\musalasoft\droneapi\service\MedicationService.class
+com\musalasoft\droneapi\task\Jobs.class
+com\musalasoft\droneapi\model\Drone.class
+com\musalasoft\droneapi\model\Drone$DroneBuilder.class
+com\musalasoft\droneapi\repository\DroneRepository.class
+com\musalasoft\droneapi\config\CustomMessage.class
+com\musalasoft\droneapi\service\DroneService.class
+com\musalasoft\droneapi\config\AppConstants.class
+com\musalasoft\droneapi\rest\RestDrone.class
+com\musalasoft\droneapi\service\IDroneService.class
+com\musalasoft\droneapi\repository\MedicationRepository.class
+com\musalasoft\droneapi\model\Medication.class
+com\musalasoft\droneapi\DroneApi.class
+com\musalasoft\droneapi\model\Model.class
