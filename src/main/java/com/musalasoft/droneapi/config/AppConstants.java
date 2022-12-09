@@ -9,7 +9,6 @@ package com.musalasoft.droneapi.config;
  * @author user
  */
 public class AppConstants {
-
     public static String DRONE_NOT_FOUND = "Drone does not exist";
     public static String DRONE_OVERLOAD = "The medication weight will overload drone";
 }
